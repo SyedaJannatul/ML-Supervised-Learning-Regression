@@ -1,1 +1,1 @@
-Machine learning ->Supervised learning
+Machine learning -> Supervised learning -> Regression
